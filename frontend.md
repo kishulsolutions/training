@@ -10,4 +10,4 @@ Javascript YouTube:
 - https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW
 
 Practice:
-- https://www.codechef.com/practice/html
+- https://www.codechef.com/practice/course/html/ROMCQ/problems/FASH01
