@@ -7,7 +7,10 @@ CSS:
 - https://www.youtube.com/watch?v=ESnrn1kAD4E
 
 Javascript YouTube:
-- https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW
+- Youtube: https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW
+- Doc: https://javascript.info/
+
 
 Practice:
 - https://www.codechef.com/practice/course/html/ROMCQ/problems/FASH01
+
